@@ -7,7 +7,7 @@
 
 **Live link**
 
-Checkout the live page here:
+Checkout the live page here: https://cori-peck.github.io/JSDrumKit/
 
 **Development Tools**
 
